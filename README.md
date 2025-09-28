@@ -7,9 +7,14 @@
 
 ## Features:
 
-**BETTER ORGANIZATION**
-New Daily and Weekly views
-**NEW DESIGN**
-Nebula features a new, space themed design
+***!!MACOS ONLY, WEB SUPPORT COMING NEVER!!***
+
+## Features
+
+✨ **Animated To-Do List**
+- Smooth animations and transitions
+- Category-based organization with color coding
+- Priority levels with visual indicators
+- Features a new space-theme design
 
 Web app w/ more features coming soon!
