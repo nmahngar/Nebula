@@ -4,10 +4,13 @@
 # Nebula - An alternative, new version of Taskify
 
 ***WEB APP CURRENTLY IN DEVELOPMENT***
+
+
 ***Prerequisites:***
 macOS 14 or higher
 Swift 5.9
 Xcode 15 or higher
+
 No windows support yet
 
 ## Features
