@@ -5,10 +5,6 @@
 
 ***WEB APP CURRENTLY IN DEVELOPMENT***
 
-## Features:
-
-***!!MACOS ONLY, WEB SUPPORT COMING NEVER!!***
-
 ## Features
 
 ✨ **Animated To-Do List**
