@@ -13,4 +13,7 @@
 - Priority levels with visual indicators
 - Features a new space-theme design
 
+   **Images**
+<img width="1193" height="575" alt="Screenshot 2025-09-27 at 8 30 07 PM" src="https://github.com/user-attachments/assets/d488be9d-9dd2-4616-8841-33969a2616fe" />
+
 Web app w/ more features coming soon!
